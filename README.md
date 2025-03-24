@@ -1,5 +1,4 @@
 
-
 You are working as a QA Engineer at a company that's building a new web application. One of the developers at the company has just finished work a registration form to enable new users to create accounts; he has moved the user story ticket into QA and assigned it to you. The ticket that you are assigned is as follows: 
 <i> 
 ### Description: 
